@@ -1,0 +1,101 @@
+h1,
+h2,
+h3,
+p {
+  margin: 0;
+}
+
+a {
+  text-decoration: none;
+}
+
+.sec-one {
+}
+.container {
+  width: 1152px;
+  padding-left: 15px;
+  padding-right: 15px;
+  margin: 0 auto;
+}
+.sec-one-h1 {
+  text-align: center;
+}
+.sec-one-p {
+  font-size: 16px;
+}
+.sec-one-p-span {
+  font-weight: bold;
+}
+.sec-two {
+}
+.sec-two-h2 {
+  text-align: center;
+}
+.sec-two-p {
+}
+.sec-three {
+}
+.sec-three-h2 {
+  text-align: center;
+}
+.sec-three-h3 {
+}
+.sec-three-table {
+  border-collapse: collapse;
+  width: 100%;
+  border: 2px solid black;
+}
+.sec-three-tr {
+  border: 2px solid black;
+  padding: 10px;
+}
+.sec-three-td-img {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.sec-three-td-text {
+  border: 2px solid black;
+  padding: 10px;
+}
+.sec-three-ul {
+}
+.sec-three-li {
+}
+.sec-three-a {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+.sec-for {
+}
+.sec-for-h2 {
+  text-align: center;
+}
+.sec-for-div {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.sec-for-img {
+}
+.sec-for-div-img {
+}
+.sec-for-div-text {
+  width: 440px;
+  align-items: center;
+  margin-left: 20px;
+}
+.sec-for-p {
+  margin-bottom: 20px;
+}
+.sec-five {
+}
+.sec-five-h1 {
+  text-align: center;
+}
+.sec-five-ol {
+}
+.sec-five-li {
+}
